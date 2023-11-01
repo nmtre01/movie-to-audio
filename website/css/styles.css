@@ -1,0 +1,31 @@
+body {
+    background-color: grey;
+    font-family: verdana;
+    margin-top: 10%;
+ }
+ h1 {
+    color: blue;
+    text-align: center;
+ }
+ .button {
+   color: blue;
+   font-family: Arial;
+   margin: 2px;
+   padding: 10px;
+   text-align: center;
+   position: flex;
+  }
+  * {
+   font-family: Arial;
+   margin: 2px;
+   padding: 10px;
+   text-align: center;
+   position: flex;
+}
+
+h2 {
+   color: green;
+   padding: 2px;
+}
+
+ 
